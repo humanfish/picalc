@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Calculate pi</string>
+    <string name="title">Calculate pi!</string>
+    <string name="calcButton">Calculate</string>
+    <string name="resetButton">Reset</string>
+    <string name="thisCalc">ms to compute pi.\n</string>
+    <string name="thisCycles">cycles per second.\n</string>
+    <string name="averageCalc">ms average so far.\n</string>
+    <string name="averageCycles">cycles per second average so far.</string>
+</resources>
